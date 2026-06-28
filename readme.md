@@ -1,1 +1,4 @@
-# THIS IS MY LOCAL REPO
+# # Local Repository
+
+This is my first GitHub repository.
+Created by Kunal Verma.
